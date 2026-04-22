@@ -1,0 +1,3 @@
+scenario,cracked,not_cracked,crack_rate_pct
+With Thai dictionary,398,602,39.8
+Without Thai dictionary,15,985,1.5

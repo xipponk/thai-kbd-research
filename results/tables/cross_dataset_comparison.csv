@@ -1,0 +1,8 @@
+
+Metric,RockYou (baseline),นศ. Constructed Thai,Real-world .th breach
+n,"1,000","1,000",709
+Mean Length,~8.0,12.75,9.23
+Peak Entropy (bits),44.64,79.72,60.62
+Shannon per symbol,2.42,3.24,2.9053
+Shannon Total,16.81,39.97,27.50
+zxcvbn mean,0.13,3.65,2.6305

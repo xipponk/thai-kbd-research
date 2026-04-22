@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Raw breach data - DO NOT COMMIT
+data/raw/CompilationOfManyBreaches/
+data/filtered/ascii_only_passwords.txt
+data/filtered/direct_thai_passwords.txt
+data/filtered/th_domain_passwords.txt
+data/filtered/th_keyboard_switched_candidates.txt
+data/filtered/th_decode_log.csv
+data/processed/confirmed_thai_switched_709.txt
+data/processed/confirmed_thai_switched.txt
+data/processed/metrics_realworld.csv
+data/validation_report.csv
+
+# Large files
+*.7z
+*.zip

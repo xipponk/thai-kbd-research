@@ -1,0 +1,8 @@
+attack_vector,count,pct_of_cracked
+c_thai_thai,323,81.2
+d_thai,107,26.9
+c_tname_tname,50,12.6
+c_thai_tname,30,7.5
+d_rockyou,15,3.8
+d_thai_name,4,1.0
+d_pwdb,2,0.5
